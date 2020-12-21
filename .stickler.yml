@@ -1,11 +1,4 @@
----
 linters:
   rubocop:
-      config: './rubocop.yml'
-
-files:
-  ignore:
-      - 'Gemfile'
-      - 'Gemfile.lock'
-      - '.rubocop.yml'
-      - '.rubocop_airbnb.yml'
+      config: rubocop.yml
+      fixer: true
