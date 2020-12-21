@@ -1,4 +1,4 @@
 linters:
   rubocop:
-      config: rubocop.yml
-      fixer: true
+    display_cop_names: true
+    fixer: true
