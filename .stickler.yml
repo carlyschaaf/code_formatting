@@ -1,8 +1,7 @@
 ---
 linters:
   rubocop:
-      config: './rubocop.yml'
-
+      display_cop_names: true
 files:
   ignore:
       - 'Gemfile'
