@@ -1,5 +1,5 @@
 inherit_from:
-  - .rubocop_airbnb.yml
+  - ./.rubocop_airbnb.yml
 
 AllCops:
   TargetRubyVersion: 2.6.3
