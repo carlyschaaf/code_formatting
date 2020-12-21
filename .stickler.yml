@@ -1,4 +1,2 @@
 linters:
   rubocop:
-      config: rubocop.yml
-      fixer: true
