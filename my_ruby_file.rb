@@ -1,4 +1,4 @@
 def my_method
-  if true
-  end
+if true
+end
 end
